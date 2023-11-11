@@ -40,7 +40,7 @@ To simulate a backend server, a fake server has been set up using JSON Server an
 
 This Hotel Management System is hosted using Firebase Hosting to provide a seamless experience for users, owners, and administrators.
 
-- **Hosted Link:** [Firebase Hoisting](https://hotel-management-88cb3.web.app/user)
+- **Hosted Link:** [Hotel Management Link](https://hotel-management-88cb3.web.app/user)
 
 ## Getting Started
 
