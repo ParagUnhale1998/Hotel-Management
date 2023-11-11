@@ -46,8 +46,8 @@ This Hotel Management System is hosted using Firebase Hosting to provide a seaml
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/ParagUnhale1998/Hotel-Management.git
-   cd hotel-management
+ ```  git clone https://github.com/ParagUnhale1998/Hotel-Management.git```
+  ``` cd hotel-management```
 ** Install Dependencies**
 ```npm install```
 
